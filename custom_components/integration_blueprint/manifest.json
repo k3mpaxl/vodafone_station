@@ -1,10 +1,10 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
-  "documentation": "https://github.com/custom-components/integration_blueprint",
+  "domain": "vodafone_station",
+  "name": "Vodafone Station Reader",
+  "documentation": "https://github.com/k3mpaxl/vodafone_station",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/custom-components/integration_blueprint/issues",
-  "version": "0.0.0",
+  "issue_tracker": "https://github.com/k3mpaxl/vodafone_station/issues",
+  "version": "0.0.1",
   "config_flow": true,
   "codeowners": [
     "@ludeeus"
